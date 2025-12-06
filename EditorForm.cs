@@ -1,9 +1,11 @@
-﻿using System;
+﻿
+using NoteApp.Infra;
+using NoteApp.Models;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
-using TrayMementoApp;
 
 namespace NoteApp
 {

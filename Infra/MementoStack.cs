@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace NoteApp
+namespace NoteApp.Infra
 {
     public class MementoStack<T>
     {

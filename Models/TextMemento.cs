@@ -4,7 +4,7 @@ using System.IO;
 using System.Windows.Forms;
 using System.Drawing;
 
-namespace TrayMementoApp
+namespace NoteApp.Models
 {
     public class TextMemento
     {

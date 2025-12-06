@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace NoteApp
+namespace NoteApp.Infra
 {
     public class TrayAppContext : ApplicationContext
     {
